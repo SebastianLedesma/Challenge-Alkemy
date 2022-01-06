@@ -38,6 +38,9 @@ Ejemplo --> obtener todas las películas:
  
  Podemos omitir los personjes y el genero y enviar la película con esta estructura:
  ![altapeliculasimple](https://user-images.githubusercontent.com/50058025/148327991-615c8316-ec6e-4cc1-93a7-d34da63300a1.png)
+ 
+ ### Asignar una imagen para un personaje:
+ 
 
 
 
