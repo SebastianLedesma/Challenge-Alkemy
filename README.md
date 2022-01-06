@@ -24,6 +24,7 @@ Seleccione el botón Authorize. Agregue la palabra Bearer y separado por un espa
 
 . Enviar token en Postman. Agregar Authorization en el header de la petición.
 Como valor enviar Bearer seguido de espacio y el token generado.
+![envioPostman](https://user-images.githubusercontent.com/50058025/148325101-68b64dc6-3f2c-485e-ad34-ef8e0dec1fec.png)
 
 
 
