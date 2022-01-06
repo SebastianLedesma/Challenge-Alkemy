@@ -2,7 +2,10 @@
 API REST con Spring boot.
 
 ## Permite dar de alta,modificar,obtener y eliminar personajes,peliculas y sus géneros del mundo de Disney.
-Para acceder a los endpoints el usuario debe registrarse en la API. Una vez registrado puede hacer login con userName y password.
+Para acceder a los endpoints el usuario debe registrarse en la API.
 Ejemplo en Postman:
 
+![login](https://user-images.githubusercontent.com/50058025/148308138-dc8ef87c-d619-41ed-8531-f459db1db548.png)
+
+Una vez registrado puede hacer login con userName y password.
 
