@@ -14,6 +14,10 @@ Una vez registrado puede hacer login con userName y password.
 ![nuevologin](https://user-images.githubusercontent.com/50058025/148308834-5fe9a2c5-c580-4031-8b94-a08490e9da61.png)
 
 En Swagger2:
+![loginswagger](https://user-images.githubusercontent.com/50058025/148323872-46c1b850-5daa-49e1-83aa-d64a082148fd.png)
+
+Una vez generado el token debe enviarlo en el header de las peticiones.
+Ejemplo en Swagger2:
 
 
 
