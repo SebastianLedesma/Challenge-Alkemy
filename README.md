@@ -18,6 +18,8 @@ En Swagger2:
 
 Una vez generado el token debe enviarlo en el header de las peticiones.
 Ejemplo en Swagger2:
+![botonauthorize](https://user-images.githubusercontent.com/50058025/148324043-84995b9c-41f1-4e21-bf46-900e8bbb1988.png)
+Seleccione el botón Authorize.
 
 
 
