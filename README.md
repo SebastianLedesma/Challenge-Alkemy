@@ -29,7 +29,9 @@ Como valor enviar Bearer seguido de espacio y el token generado.
 ### Una vez ingresado nuestro token podemos agregar,modificar filtrar y eliminar nuestras películas y personajes.
 Ejemplo --> obtener todas las películas:
 ## En Postman:
-
+![allpostman](https://user-images.githubusercontent.com/50058025/148326522-82cadec6-5024-4e8e-bfaf-401159d4fe14.png)
+## En Swagger2:
+ 
 
 
 
