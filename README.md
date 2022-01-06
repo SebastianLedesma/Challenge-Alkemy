@@ -35,8 +35,10 @@ Ejemplo --> obtener todas las películas:
 
 ## Alta de una pelicula:
  ![Altapeliculaswagger](https://user-images.githubusercontent.com/50058025/148327880-e7e5daa5-8069-458c-a544-8d192053092f.png)
- Podemos omitir los personjes y el genero y enviar la película con esta estructura:
  
+ Podemos omitir los personjes y el genero y enviar la película con esta estructura:
+ ![altapeliculasimple](https://user-images.githubusercontent.com/50058025/148327991-615c8316-ec6e-4cc1-93a7-d34da63300a1.png)
+
 
 
 
