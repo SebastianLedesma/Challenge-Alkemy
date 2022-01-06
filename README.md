@@ -43,6 +43,9 @@ Ejemplo --> obtener todas las películas:
  ![enviarfotoperso](https://user-images.githubusercontent.com/50058025/148328468-da72a787-8db0-44be-84bc-a0aa81a09c2b.png)
 
 ### Podemos filtrar nuestras películas(solo aplica un parámetro de búsqueda):
+![filtrarpostman](https://user-images.githubusercontent.com/50058025/148329143-815d29e2-3753-4b62-bf4e-271d0463d385.png)
+
+También nuestros personajes(también aplica un parámetro de búsqueda):
 
 
 
