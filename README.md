@@ -31,6 +31,8 @@ Ejemplo --> obtener todas las películas:
 ## En Postman:
 ![allpostman](https://user-images.githubusercontent.com/50058025/148326522-82cadec6-5024-4e8e-bfaf-401159d4fe14.png)
 ## En Swagger2:
+![allswagger2](https://user-images.githubusercontent.com/50058025/148326636-b7ba27ac-0580-4d12-8db1-a0fb20a32384.png)
+
  
 
 
