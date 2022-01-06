@@ -46,6 +46,7 @@ Ejemplo --> obtener todas las películas:
 ![filtrarpostman](https://user-images.githubusercontent.com/50058025/148329143-815d29e2-3753-4b62-bf4e-271d0463d385.png)
 
 También nuestros personajes(también aplica un parámetro de búsqueda):
+![filtrarswagger](https://user-images.githubusercontent.com/50058025/148329261-18dd57e8-6091-4455-8b8e-343d1c0ef35e.png)
 
 
 
