@@ -40,7 +40,10 @@ Ejemplo --> obtener todas las películas:
  ![altapeliculasimple](https://user-images.githubusercontent.com/50058025/148327991-615c8316-ec6e-4cc1-93a7-d34da63300a1.png)
  
  ### Asignar una imagen para un personaje:
- 
+ ![enviarfotoperso](https://user-images.githubusercontent.com/50058025/148328468-da72a787-8db0-44be-84bc-a0aa81a09c2b.png)
+
+### Podemos filtrar nuestras películas(solo aplica un parámetro de búsqueda):
+
 
 
 
